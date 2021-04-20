@@ -1,0 +1,12 @@
+/*body {
+ background-color: green
+}*/
+/*body {background: green}*/
+body {
+	margin: 500;
+/*  background-image: url("../img/1957_Esquire_bitsa.jpg"), url("../img/1954_Esquire.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: lightblue;*/
+  background: #D3D3D3;
+  /*background: green;*/
+}
